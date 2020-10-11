@@ -14,5 +14,5 @@
 - python
     - [PyCharm Community](https://www.jetbrains.com/pycharm/)
     - [brackets](https://github.com/adobe/brackets)
-- html & javascript & php
+- html & javascript & css & php
     - [brackets](https://github.com/adobe/brackets)
