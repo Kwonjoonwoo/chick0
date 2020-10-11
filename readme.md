@@ -14,7 +14,3 @@
     - [brackets](https://github.com/adobe/brackets)
 - html & javascript & php
     - [brackets](https://github.com/adobe/brackets)
-
-
-### email
-- [chick_0@ch1ck.xyz](mailto:chick_0@ch1ck.xyz)
