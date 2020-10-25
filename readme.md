@@ -1,6 +1,5 @@
 ## web site
 - [https://school.ch1ck.xyz/](https://school.ch1ck.xyz/)
-- [https://ip.ch1ck.xyz/](https://ip.ch1ck.xyz/)
 - [https://urlapp.xyz/](https://urlapp.xyz/)
 
 ## chat bot
