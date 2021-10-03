@@ -1,1 +1,1 @@
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chick0&theme=dark&hide=mako,javascript,css&layout=compact)
+![profile image](https://user-images.githubusercontent.com/64462443/135767852-b1d12c25-d60c-4ff2-ad50-70c8b7c46d47.png)
